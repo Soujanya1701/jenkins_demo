@@ -1,0 +1,37 @@
+Python Data Types : 
+-> python is dynamical typed language 
+
+Numeric - 
+    int - whole numbers (10) 
+    float - decimal values (5.5)
+sequence - 
+    string  - list of characters eg: "souji" or 'souji' 
+            - strings are immutable 
+    list  - stores ordered collection of items , mutable , ordered, allows duplicates
+          - it can store multiple data types
+          - eg : my_list = [1,2,3]
+    tuple  - stores collection of items , immutable
+            - my_tuple = (1,2,3)
+mapping - 
+    dict  - represents dictonaries (key -value - pair) , mutable, ordered
+          - keys should be unique 
+          - eg : {'name': "souji" , 'roll': 20}  
+Set -
+    set: Represents sets (unordered collections of unique elements). 
+    Example: my_set = {1, 2, 3}
+boolean-
+    -Represents Boolean values (True or False). 
+    -Example: is_valid = True
+
+regular expression(Regex) - 
+    -helps to find the sentence in a line
+    -The re module in Python is used for working with regular expressions.
+    -re module functions include re.match(), re.search(), re.findall(), and re.sub() for pattern matching and replacement.
+
+->In built functions for strings: 
+    len() , upper() , lower() , strip() , replace()
+    split () : to spilt into two different parts
+    join(),  statrswith(), 
+
+-> In built functions for Numeric: 
+    abs() , round()

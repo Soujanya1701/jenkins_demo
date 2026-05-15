@@ -1,0 +1,4 @@
+
+variables : used to store the data
+    -Global variable : can be accessed anywhere in the program
+    -Local variable : can be accessed only inside the function where it is declared
